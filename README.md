@@ -2,8 +2,8 @@
 
 | Problem Type             | Solved Count |
 | ------------------------ | :----------: |
-| 1. Introductory Problems |     1/24     |
-| **Total**                |  **1/400**   |
+| 1. Introductory Problems |     2/24     |
+| **Total**                |  **2/400**   |
 
 # Table of Contents
 
