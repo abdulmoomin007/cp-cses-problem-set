@@ -9,4 +9,4 @@
 
 ## Introductory Problems
 
-1. [Weird Algorithm](/Introductory%20Problems/1.%20Weird%20Algorithm.cpp)
+1. [Weird Algorithm](/1.%20Introductory%20Problems/1.%20Weird%20Algorithm.cpp)
