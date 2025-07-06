@@ -2,8 +2,8 @@
 
 | Problem Type             | Solved Count |
 | ------------------------ | :----------: |
-| 1. Introductory Problems |    16/24     |
-| **Total**                |  **16/400**  |
+| 1. Introductory Problems |    17/24     |
+| **Total**                |  **17/400**  |
 
 # Table of Contents
 
@@ -25,3 +25,4 @@
 14. [Tower of Hanoi](/1.%20Introductory%20Problems/14.%20Tower%20of%20Hanoi.cpp)
 15. [Creating Strings](/1.%20Introductory%20Problems/15.%20Creating%20Strings.cpp)
 16. [Apple Division](/1.%20Introductory%20Problems/16.%20Apple%20Division.cpp)
+17. [Chessboard and Queens](/1.%20Introductory%20Problems/17.%20Chessboard%20and%20Queens.cpp)
