@@ -17,3 +17,4 @@
 6. [Number Spiral](/1.%20Introductory%20Problems/6.%20Number%20Spiral.cpp)
 7. [Two Knights](/1.%20Introductory%20Problems/7.%20Two%20Knights.cpp)
 8. [Two Sets](/1.%20Introductory%20Problems/8.%20Two%20Sets.cpp)
+9. [Bit Strings](/1.%20Introductory%20Problems/9a.%20Bit%20Strings.cpp)
