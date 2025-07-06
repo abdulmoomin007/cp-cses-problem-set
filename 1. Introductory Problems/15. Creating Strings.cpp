@@ -65,7 +65,11 @@ void solve()
     string s;
     cin >> s;
     sort(all(s));
+    vector<string> a;
     do
-        cout << s << endl;
+        a.push_back(s);
     while (next_permutation(s.begin(), s.end()));
+    cout << a.size() << endl;
+    for (auto &x : a)
+        cout << x << endl;
 }
