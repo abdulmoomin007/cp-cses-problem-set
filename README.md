@@ -2,8 +2,8 @@
 
 | Problem Type             | Solved Count |
 | ------------------------ | :----------: |
-| 1. Introductory Problems |    12/24     |
-| **Total**                |  **12/400**  |
+| 1. Introductory Problems |    13/24     |
+| **Total**                |  **13/400**  |
 
 # Table of Contents
 
@@ -21,3 +21,4 @@
 10. [Trailing Zeros](/1.%20Introductory%20Problems/10.%20Trailing%20Zeros.cpp)
 11. [Coin Piles](/1.%20Introductory%20Problems/11.%20Coin%20Piles.cpp)
 12. [Palindrome Reorder](/cp-cses-problem-set/1.%20Introductory%20Problems/12.%20Palindrome%20Reorder.cpp)
+13. [Gray Code](/cp-cses-problem-set/1.%20Introductory%20Problems/13.%20Gray%20Code.cpp)
