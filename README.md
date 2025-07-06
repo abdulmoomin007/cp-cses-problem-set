@@ -2,8 +2,8 @@
 
 | Problem Type             | Solved Count |
 | ------------------------ | :----------: |
-| 1. Introductory Problems |    14/24     |
-| **Total**                |  **14/400**  |
+| 1. Introductory Problems |    15/24     |
+| **Total**                |  **15/400**  |
 
 # Table of Contents
 
@@ -23,3 +23,4 @@
 12. [Palindrome Reorder](/1.%20Introductory%20Problems/12.%20Palindrome%20Reorder.cpp)
 13. [Gray Code](/1.%20Introductory%20Problems/13.%20Gray%20Code.cpp)
 14. [Tower of Hanoi](/1.%20Introductory%20Problems/14.%20Tower%20of%20Hanoi.cpp)
+15. [Creating Strings](/1.%20Introductory%20Problems/15.%20Creating%20Strings.cpp)
