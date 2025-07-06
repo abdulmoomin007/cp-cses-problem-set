@@ -2,8 +2,8 @@
 
 | Problem Type             | Solved Count |
 | ------------------------ | :----------: |
-| 1. Introductory Problems |     6/24     |
-| **Total**                |  **6/400**   |
+| 1. Introductory Problems |     7/24     |
+| **Total**                |  **7/400**   |
 
 # Table of Contents
 
@@ -15,3 +15,4 @@
 4. [Increasing Array](/1.%20Introductory%20Problems/4.%20Increasing%20Array.cpp)
 5. [Permutations](/1.%20Introductory%20Problems/5.%20Permutations.cpp)
 6. [Number Spiral](/1.%20Introductory%20Problems/6.%20Number%20Spiral.cpp)
+7. [Two Knights](/1.%20Introductory%20Problems/7.%20Two%20Knights.cpp)
