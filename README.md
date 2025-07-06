@@ -2,7 +2,7 @@
 
 | Problem Type             | Solved Count |
 | ------------------------ | :----------: |
-| 1. Introductory Problems |     8/24     |
+| 1. Introductory Problems |    10/24     |
 | **Total**                |  **8/400**   |
 
 # Table of Contents
