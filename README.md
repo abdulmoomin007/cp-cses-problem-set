@@ -2,8 +2,8 @@
 
 | Problem Type             | Solved Count |
 | ------------------------ | :----------: |
-| 1. Introductory Problems |    13/24     |
-| **Total**                |  **13/400**  |
+| 1. Introductory Problems |    14/24     |
+| **Total**                |  **14/400**  |
 
 # Table of Contents
 
@@ -20,5 +20,6 @@
 9. [Bit Strings](/1.%20Introductory%20Problems/9a.%20Bit%20Strings.cpp)
 10. [Trailing Zeros](/1.%20Introductory%20Problems/10.%20Trailing%20Zeros.cpp)
 11. [Coin Piles](/1.%20Introductory%20Problems/11.%20Coin%20Piles.cpp)
-12. [Palindrome Reorder](/cp-cses-problem-set/1.%20Introductory%20Problems/12.%20Palindrome%20Reorder.cpp)
-13. [Gray Code](/cp-cses-problem-set/1.%20Introductory%20Problems/13.%20Gray%20Code.cpp)
+12. [Palindrome Reorder](/1.%20Introductory%20Problems/12.%20Palindrome%20Reorder.cpp)
+13. [Gray Code](/1.%20Introductory%20Problems/13.%20Gray%20Code.cpp)
+14. [Tower of Hanoi](/1.%20Introductory%20Problems/14.%20Tower%20of%20Hanoi.cpp)
