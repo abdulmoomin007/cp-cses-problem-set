@@ -1,9 +1,26 @@
 # CSES Solutions
 
-| Problem Type             | Solved Count |
-| ------------------------ | :----------: |
-| 1. Introductory Problems |    18/24     |
-| **Total**                |  **18/400**  |
+| Problem Type                | Solved Count |
+| --------------------------- | :----------: |
+| 1. Introductory Problems    |    19/24     |
+| 2. Sorting and Searching    |     0/35     |
+| 3. Dynamic Programming      |     0/23     |
+| 4. Graph Algorithms         |     0/36     |
+| 5. Range Queries            |     0/25     |
+| 6. Tree Algorithms          |     0/16     |
+| 7. Mathematics              |     0/37     |
+| 8. String Algorithms        |     0/21     |
+| 9. Geometry                 |     0/16     |
+| 10. Advanced Techniques     |     0/25     |
+| 11. Sliding Window Problems |     0/11     |
+| 12. Interactive Problems    |     0/6      |
+| 13. Bitwise Operations      |     0/11     |
+| 14. Construction Problems   |     0/8      |
+| 15. Advanced Graph Problems |     0/28     |
+| 16. Counting Problems       |     0/18     |
+| 17. Additional Problems I   |     0/30     |
+| 18. Additional Problems II  |     0/30     |
+| **Total**                   |  **19/400**  |
 
 # Table of Contents
 
@@ -27,3 +44,38 @@
 16. [Apple Division](/1.%20Introductory%20Problems/16.%20Apple%20Division.cpp)
 17. [Chessboard and Queens](/1.%20Introductory%20Problems/17.%20Chessboard%20and%20Queens.cpp)
 18. [Raab Game I](/1.%20Introductory%20Problems/18.%20Raab%20Game%20I.cpp)
+19. [Mex Grid Construction](/1.%20Introductory%20Problems/19.%20Mex%20Grid%20Construction.cpp)
+
+## Sorting and Searching
+
+## Dynamic Programming
+
+## Graph Algorithms
+
+## Range Queries
+
+## Tree Algorithms
+
+## Mathematics
+
+## String Algorithms
+
+## Geometry
+
+## Advanced Techniques
+
+## Sliding Window Problems
+
+## Interactive Problems
+
+## Bitwise Operations
+
+## Construction Problems
+
+## Advanced Graph Problems
+
+## Counting Problems
+
+## Additional Problems I
+
+## Additional Problems II
