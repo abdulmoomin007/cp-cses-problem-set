@@ -2,7 +2,7 @@
 
 | Problem Type                | Solved Count |
 | --------------------------- | :----------: |
-| 1. Introductory Problems    |    20/24     |
+| 1. Introductory Problems    |    21/24     |
 | 2. Sorting and Searching    |     0/35     |
 | 3. Dynamic Programming      |     0/23     |
 | 4. Graph Algorithms         |     0/36     |
@@ -20,7 +20,7 @@
 | 16. Counting Problems       |     0/18     |
 | 17. Additional Problems I   |     0/30     |
 | 18. Additional Problems II  |     0/30     |
-| **Total**                   |  **20/400**  |
+| **Total**                   |  **21/400**  |
 
 # Table of Contents
 
@@ -46,6 +46,7 @@
 18. [Raab Game I](/1.%20Introductory%20Problems/18.%20Raab%20Game%20I.cpp)
 19. [Mex Grid Construction](/1.%20Introductory%20Problems/19.%20Mex%20Grid%20Construction.cpp)
 20. [Knight Moves Grid](/1.%20Introductory%20Problems/20.%20Knight%20Moves%20Grid.cpp)
+21. [Grid Coloring I](/1.%20Introductory%20Problems/21.%20Grid%20Coloring%20I.cpp)
 
 ## Sorting and Searching
 
