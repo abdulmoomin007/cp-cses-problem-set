@@ -61,6 +61,7 @@
 6. [Movie Festival](/2.%20Sorting%20and%20Searching/6.%20Movie%20Festival.cpp)
 7. [Sum of Two Values](/2.%20Sorting%20and%20Searching/7.%20Sum%20of%20Two%20Values.cpp)
 8. [Maximum Subarray Sum](/cp-cses-problem-set/2.%20Sorting%20and%20Searching/8.%20Maximum%20Subarray%20Sum.cpp)
+9. [Stick Lengths](/2.%20Sorting%20and%20Searching/9.%20Stick%20Lengths.cpp)
 
 ## Dynamic Programming
 
