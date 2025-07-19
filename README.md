@@ -3,7 +3,7 @@
 | Problem Type                | Solved Count |
 | --------------------------- | :----------: |
 | 1. Introductory Problems    |    24/24     |
-| 2. Sorting and Searching    |     3/35     |
+| 2. Sorting and Searching    |     4/35     |
 | 3. Dynamic Programming      |     0/23     |
 | 4. Graph Algorithms         |     0/36     |
 | 5. Range Queries            |     0/25     |
@@ -20,7 +20,7 @@
 | 16. Counting Problems       |     0/18     |
 | 17. Additional Problems I   |     0/30     |
 | 18. Additional Problems II  |     0/30     |
-| **Total**                   |  **27/400**  |
+| **Total**                   |  **28/400**  |
 
 # Table of Contents
 
@@ -56,6 +56,7 @@
 1. [Distinct Numbers](/2.%20Sorting%20and%20Searching/1.%20Distinct%20Numbers.cpp)
 2. [Apartments](/2.%20Sorting%20and%20Searching/2.%20Apartments.cpp)
 3. [Ferris Wheel](/2.%20Sorting%20and%20Searching/3.%20Ferris%20Wheel.cpp)
+4. [Concert Tickets](/2.%20Sorting%20and%20Searching/4.%20Concert%20Tickets.cpp)
 
 ## Dynamic Programming
 
