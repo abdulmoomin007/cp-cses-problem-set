@@ -53,6 +53,8 @@
 
 ## Sorting and Searching
 
+1. [Distinct Numbers](/2.%20Sorting%20and%20Searching/1.%20Distinct%20Numbers.cpp)
+
 ## Dynamic Programming
 
 ## Graph Algorithms
