@@ -48,6 +48,7 @@
 20. [Knight Moves Grid](/1.%20Introductory%20Problems/20.%20Knight%20Moves%20Grid.cpp)
 21. [Grid Coloring I](/1.%20Introductory%20Problems/21.%20Grid%20Coloring%20I.cpp)
 22. [Digit Queries](/1.%20Introductory%20Problems/22.%20Digit%20Queries.cpp)
+23. [String Reorder](/1.%20Introductory%20Problems/23.%20String%20Reorder.cpp)
 
 ## Sorting and Searching
 
