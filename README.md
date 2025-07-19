@@ -2,7 +2,7 @@
 
 | Problem Type                | Solved Count |
 | --------------------------- | :----------: |
-| 1. Introductory Problems    |    22/24     |
+| 1. Introductory Problems    |    23/24     |
 | 2. Sorting and Searching    |     0/35     |
 | 3. Dynamic Programming      |     0/23     |
 | 4. Graph Algorithms         |     0/36     |
@@ -20,7 +20,7 @@
 | 16. Counting Problems       |     0/18     |
 | 17. Additional Problems I   |     0/30     |
 | 18. Additional Problems II  |     0/30     |
-| **Total**                   |  **22/400**  |
+| **Total**                   |  **23/400**  |
 
 # Table of Contents
 
