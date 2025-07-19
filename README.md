@@ -2,7 +2,7 @@
 
 | Problem Type                | Solved Count |
 | --------------------------- | :----------: |
-| 1. Introductory Problems    |    23/24     |
+| 1. Introductory Problems    |    24/24     |
 | 2. Sorting and Searching    |     0/35     |
 | 3. Dynamic Programming      |     0/23     |
 | 4. Graph Algorithms         |     0/36     |
@@ -20,7 +20,7 @@
 | 16. Counting Problems       |     0/18     |
 | 17. Additional Problems I   |     0/30     |
 | 18. Additional Problems II  |     0/30     |
-| **Total**                   |  **23/400**  |
+| **Total**                   |  **24/400**  |
 
 # Table of Contents
 
@@ -49,6 +49,7 @@
 21. [Grid Coloring I](/1.%20Introductory%20Problems/21.%20Grid%20Coloring%20I.cpp)
 22. [Digit Queries](/1.%20Introductory%20Problems/22.%20Digit%20Queries.cpp)
 23. [String Reorder](/1.%20Introductory%20Problems/23.%20String%20Reorder.cpp)
+24. [Grid Path Description](/1.%20Introductory%20Problems/24.%20Grid%20Path%20Description.cpp)
 
 ## Sorting and Searching
 
