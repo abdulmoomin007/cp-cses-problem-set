@@ -3,7 +3,7 @@
 | Problem Type                | Solved Count |
 | --------------------------- | :----------: |
 | 1. Introductory Problems    |    24/24     |
-| 2. Sorting and Searching    |     7/35     |
+| 2. Sorting and Searching    |     8/35     |
 | 3. Dynamic Programming      |     0/23     |
 | 4. Graph Algorithms         |     0/36     |
 | 5. Range Queries            |     0/25     |
@@ -20,7 +20,7 @@
 | 16. Counting Problems       |     0/18     |
 | 17. Additional Problems I   |     0/30     |
 | 18. Additional Problems II  |     0/30     |
-| **Total**                   |  **31/400**  |
+| **Total**                   |  **32/400**  |
 
 # Table of Contents
 
@@ -60,6 +60,7 @@
 5. [Restaurant Customers](/2.%20Sorting%20and%20Searching/5.%20Restaurant%20Customers.cpp)
 6. [Movie Festival](/2.%20Sorting%20and%20Searching/6.%20Movie%20Festival.cpp)
 7. [Sum of Two Values](/2.%20Sorting%20and%20Searching/7.%20Sum%20of%20Two%20Values.cpp)
+8. [Maximum Subarray Sum](/cp-cses-problem-set/2.%20Sorting%20and%20Searching/8.%20Maximum%20Subarray%20Sum.cpp)
 
 ## Dynamic Programming
 
