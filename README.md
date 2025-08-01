@@ -66,7 +66,7 @@
 11. [Collecting Numbers](/2.%20Sorting%20and%20Searching/11.%20Collecting%20Numbers.cpp)
 12. [Collecting Numbers II](/2.%20Sorting%20and%20Searching/12.%20Collecting%20Numbers%20II.cpp)
 13. [Playlist](/2.%20Sorting%20and%20Searching/13.%20Playlist.cpp)
-14. [Towers](/cp-cses-problem-set/2.%20Sorting%20and%20Searching/14.%20Towers.cpp)
+14. [Towers](/2.%20Sorting%20and%20Searching/14.%20Towers.cpp)
 
 ## Dynamic Programming
 
