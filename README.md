@@ -3,7 +3,7 @@
 | Problem Type                | Solved Count |
 | --------------------------- | :----------: |
 | 1. Introductory Problems    |    24/24     |
-| 2. Sorting and Searching    |    14/35     |
+| 2. Sorting and Searching    |    15/35     |
 | 3. Dynamic Programming      |     0/23     |
 | 4. Graph Algorithms         |     0/36     |
 | 5. Range Queries            |     0/25     |
@@ -67,6 +67,7 @@
 12. [Collecting Numbers II](/2.%20Sorting%20and%20Searching/12.%20Collecting%20Numbers%20II.cpp)
 13. [Playlist](/2.%20Sorting%20and%20Searching/13.%20Playlist.cpp)
 14. [Towers](/2.%20Sorting%20and%20Searching/14.%20Towers.cpp)
+15. [Traffic Lights](/2.%20Sorting%20and%20Searching/15.%20Traffic%20Lights.cpp)
 
 ## Dynamic Programming
 
