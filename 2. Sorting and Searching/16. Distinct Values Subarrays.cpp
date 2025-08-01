@@ -64,24 +64,20 @@ int main()
 // Solve function for each test case
 void solve()
 {
-    int x, n;
-    cin >> x >> n;
-    set<int> s;
-    s.insert(0);
-    s.insert(x);
-    multiset<int> ms;
-    ms.insert(x);
-    while (n--)
+    int n;
+    cin >> n;
+    vi a(n);
+    for (int &x : a)
+        cin >> x;
+    map<int, int> ind;
+    int lat = -1;
+    ll ans = 0;
+    rep(i, 0, n)
     {
-        int p;
-        cin >> p;
-        s.insert(p);
-        auto it = s.find(p);
-        int pre = *prev(it);
-        int nex = *next(it);
-        ms.erase(ms.find(nex - pre));
-        ms.insert(p - pre);
-        ms.insert(nex - p);
-        cout << *ms.rbegin() << " ";
+        if (ind.count(a[i]))
+            lat = max(lat, ind[a[i]]);
+        ind[a[i]] = i;
+        ans += (i - lat);
     }
+    cout << ans;
 }
