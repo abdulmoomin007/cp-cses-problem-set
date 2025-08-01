@@ -3,7 +3,7 @@
 | Problem Type                | Solved Count |
 | --------------------------- | :----------: |
 | 1. Introductory Problems    |    24/24     |
-| 2. Sorting and Searching    |    11/35     |
+| 2. Sorting and Searching    |    12/35     |
 | 3. Dynamic Programming      |     0/23     |
 | 4. Graph Algorithms         |     0/36     |
 | 5. Range Queries            |     0/25     |
@@ -20,7 +20,7 @@
 | 16. Counting Problems       |     0/18     |
 | 17. Additional Problems I   |     0/30     |
 | 18. Additional Problems II  |     0/30     |
-| **Total**                   |  **35/400**  |
+| **Total**                   |  **36/400**  |
 
 # Table of Contents
 
@@ -64,6 +64,7 @@
 9. [Stick Lengths](/2.%20Sorting%20and%20Searching/9.%20Stick%20Lengths.cpp)
 10. [Missing Coin Sum](/2.%20Sorting%20and%20Searching/10.%20Missing%20Coin%20Sum.cpp)
 11. [Collecting Numbers](/2.%20Sorting%20and%20Searching/11.%20Collecting%20Numbers.cpp)
+12. [Collecting Numbers II](/2.%20Sorting%20and%20Searching/12.%20Collecting%20Numbers%20II.cpp)
 
 ## Dynamic Programming
 
