@@ -71,7 +71,7 @@
 16. [Distinct Values Subarrays](/2.%20Sorting%20and%20Searching/16.%20Distinct%20Values%20Subarrays.cpp)
 17. [Distinct Values Subsequences](/2.%20Sorting%20and%20Searching/17.%20Distinct%20Values%20Subsequences.cpp)
 18. [Josephus Problem I](/2.%20Sorting%20and%20Searching/18.%20Josephus%20Problem%20I.cpp)
-19. [Josephus Problem II](/2.%20Sorting%20and%20Searching/19.%20Josephus%20Problem%20I.cpp)
+19. [Josephus Problem II](/2.%20Sorting%20and%20Searching/19.%20Josephus%20Problem%20II.cpp)
 
 ## Dynamic Programming
 
