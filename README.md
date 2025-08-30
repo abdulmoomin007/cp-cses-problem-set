@@ -73,7 +73,7 @@
 18. [Josephus Problem I](/2.%20Sorting%20and%20Searching/18.%20Josephus%20Problem%20I.cpp)
 19. [Josephus Problem II](/2.%20Sorting%20and%20Searching/19.%20Josephus%20Problem%20II.cpp)
 20. [Nested Ranges Check](/2.%20Sorting%20and%20Searching/20.%20Nested%20Ranges%20Check.cpp)
-21. [Nested Ranges Count]
+21. [Nested Ranges Count](/2.%20Sorting%20and%20Searching/21.%20Nested%20Ranges%20Count.cpp)
 22. [Room Allocation]
 23. [Factory Machines]
 24. [Tasks and Deadlines]
