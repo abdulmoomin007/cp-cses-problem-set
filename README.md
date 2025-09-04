@@ -3,7 +3,7 @@
 | Problem Type                | Solved Count |
 | --------------------------- | :----------: |
 | 1. Introductory Problems    |    24/24     |
-| 2. Sorting and Searching    |    20/35     |
+| 2. Sorting and Searching    |    22/35     |
 | 3. Dynamic Programming      |     0/23     |
 | 4. Graph Algorithms         |     0/36     |
 | 5. Range Queries            |     0/25     |
@@ -20,7 +20,7 @@
 | 16. Counting Problems       |     0/18     |
 | 17. Additional Problems I   |     0/30     |
 | 18. Additional Problems II  |     0/30     |
-| **Total**                   |  **44/400**  |
+| **Total**                   |  **46/400**  |
 
 # Table of Contents
 
@@ -74,7 +74,7 @@
 19. [Josephus Problem II](/2.%20Sorting%20and%20Searching/19.%20Josephus%20Problem%20II.cpp)
 20. [Nested Ranges Check](/2.%20Sorting%20and%20Searching/20.%20Nested%20Ranges%20Check.cpp)
 21. [Nested Ranges Count](/2.%20Sorting%20and%20Searching/21.%20Nested%20Ranges%20Count.cpp)
-22. [Room Allocation]
+22. [Room Allocation](/2.%20Sorting%20and%20Searching/22.%20Room%20Allocation.cpp)
 23. [Factory Machines]
 24. [Tasks and Deadlines]
 25. [Reading Books]
