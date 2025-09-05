@@ -3,7 +3,7 @@
 | Problem Type                | Solved Count |
 | --------------------------- | :----------: |
 | 1. Introductory Problems    |    24/24     |
-| 2. Sorting and Searching    |    22/35     |
+| 2. Sorting and Searching    |    24/35     |
 | 3. Dynamic Programming      |     0/23     |
 | 4. Graph Algorithms         |     0/36     |
 | 5. Range Queries            |     0/25     |
@@ -20,7 +20,7 @@
 | 16. Counting Problems       |     0/18     |
 | 17. Additional Problems I   |     0/30     |
 | 18. Additional Problems II  |     0/30     |
-| **Total**                   |  **46/400**  |
+| **Total**                   |  **48/400**  |
 
 # Table of Contents
 
@@ -76,7 +76,7 @@
 21. [Nested Ranges Count](/2.%20Sorting%20and%20Searching/21.%20Nested%20Ranges%20Count.cpp)
 22. [Room Allocation](/2.%20Sorting%20and%20Searching/22.%20Room%20Allocation.cpp)
 23. [Factory Machines](/2.%20Sorting%20and%20Searching/23.%20Factory%20Machines.cpp)
-24. [Tasks and Deadlines]
+24. [Tasks and Deadlines](/2.%20Sorting%20and%20Searching/24.%20Tasks%20and%20Deadlines.cpp)
 25. [Reading Books]
 26. [Sum of Three Values]
 27. [Sum of Four Values]
