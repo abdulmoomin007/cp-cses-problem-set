@@ -75,7 +75,7 @@
 20. [Nested Ranges Check](/2.%20Sorting%20and%20Searching/20.%20Nested%20Ranges%20Check.cpp)
 21. [Nested Ranges Count](/2.%20Sorting%20and%20Searching/21.%20Nested%20Ranges%20Count.cpp)
 22. [Room Allocation](/2.%20Sorting%20and%20Searching/22.%20Room%20Allocation.cpp)
-23. [Factory Machines]
+23. [Factory Machines](/2.%20Sorting%20and%20Searching/23.%20Factory%20Machines.cpp)
 24. [Tasks and Deadlines]
 25. [Reading Books]
 26. [Sum of Three Values]
