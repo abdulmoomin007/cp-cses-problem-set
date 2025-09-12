@@ -3,7 +3,7 @@
 | Problem Type                | Solved Count |
 | --------------------------- | :----------: |
 | 1. Introductory Problems    |    24/24     |
-| 2. Sorting and Searching    |    29/35     |
+| 2. Sorting and Searching    |    30/35     |
 | 3. Dynamic Programming      |     0/23     |
 | 4. Graph Algorithms         |     0/36     |
 | 5. Range Queries            |     0/25     |
@@ -20,7 +20,7 @@
 | 16. Counting Problems       |     0/18     |
 | 17. Additional Problems I   |     0/30     |
 | 18. Additional Problems II  |     0/30     |
-| **Total**                   |  **53/400**  |
+| **Total**                   |  **54/400**  |
 
 # Table of Contents
 
@@ -82,7 +82,7 @@
 27. [Sum of Four Values](/2.%20Sorting%20and%20Searching/27.%20Sum%20of%20Four%20Values.cpp)
 28. [Nearest Smaller Values](/2.%20Sorting%20and%20Searching/28.%20Nearest%20Smaller%20Values.cpp)
 29. [Subarray Sums I](/2.%20Sorting%20and%20Searching/29.%20Subarray%20Sums%20I.cpp)
-30. [Subarray Sums II]
+30. [Subarray Sums II](/2.%20Sorting%20and%20Searching/30.%20Subarray%20Sums%20II.cpp)
 31. [Subarray Divisibility]
 32. [Distinct Values Subarrays II]
 33. [Array Division]
