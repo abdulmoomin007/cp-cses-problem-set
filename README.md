@@ -3,7 +3,7 @@
 | Problem Type                | Solved Count |
 | --------------------------- | :----------: |
 | 1. Introductory Problems    |    24/24     |
-| 2. Sorting and Searching    |    33/35     |
+| 2. Sorting and Searching    |    34/35     |
 | 3. Dynamic Programming      |     0/23     |
 | 4. Graph Algorithms         |     0/36     |
 | 5. Range Queries            |     0/25     |
@@ -20,7 +20,7 @@
 | 16. Counting Problems       |     0/18     |
 | 17. Additional Problems I   |     0/30     |
 | 18. Additional Problems II  |     0/30     |
-| **Total**                   |  **57/400**  |
+| **Total**                   |  **58/400**  |
 
 # Table of Contents
 
@@ -86,7 +86,7 @@
 31. [Subarray Divisibility](/2.%20Sorting%20and%20Searching/31.%20Subarray%20Divisibility.cpp)
 32. [Distinct Values Subarrays II](/2.%20Sorting%20and%20Searching/32.%20Distinct%20Values%20Subarrays%20II.cpp)
 33. [Array Division](/2.%20Sorting%20and%20Searching/33.%20Array%20Division.cpp)
-34. [Movie Festival II]
+34. [Movie Festival II](/2.%20Sorting%20and%20Searching/34.%20Movie%20Festival%20II.cpp)
 35. [Maximum Subarray Sum II]
 
 ## Dynamic Programming
