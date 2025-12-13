@@ -4,7 +4,7 @@
 | --------------------------- | :----------: |
 | 1. Introductory Problems    |    24/24     |
 | 2. Sorting and Searching    |    35/35     |
-| 3. Dynamic Programming      |     0/23     |
+| 3. Dynamic Programming      |     1/23     |
 | 4. Graph Algorithms         |     0/36     |
 | 5. Range Queries            |     0/25     |
 | 6. Tree Algorithms          |     0/16     |
@@ -20,7 +20,7 @@
 | 16. Counting Problems       |     0/18     |
 | 17. Additional Problems I   |     0/30     |
 | 18. Additional Problems II  |     0/30     |
-| **Total**                   |  **58/400**  |
+| **Total**                   |  **60/400**  |
 
 # Table of Contents
 
@@ -91,7 +91,7 @@
 
 ## Dynamic Programming
 
-1. [Dice Combinations]
+1. [Dice Combinations](/3.%20Dynamic%20Programming/1.%20Dice%20Combinations.cpp)
 2. [Minimizing Coins]
 3. [Coin Combinations I]
 4. [Coin Combinations II]
